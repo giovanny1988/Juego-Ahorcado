@@ -1,0 +1,24 @@
+#contenedor-palabra-adivinar span{
+    vertical-align: bottom;
+    font-size: 2em;
+    font-family: var(--fuente);
+    border-bottom: 5px solid black;
+    width: 30px;
+    text-align: center;
+    margin-right: 30px;
+    margin-top: 10px;
+    display: inline-block;
+
+}
+
+.contenedor-guiones{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    width: 60%;
+    height: 120px;
+    padding: 5px;
+    border-radius: 30px;
+    border: 4px solid #f4a929;
+    background-color: #fdfdfd;
+}
